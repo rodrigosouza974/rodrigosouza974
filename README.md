@@ -35,12 +35,11 @@ Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, 
 <img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="35" height="35"/> 
 <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
-<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
-                                                           
-                                                                                            
+<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/>                       
 </div>
-
-  <div>
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigosouza974&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosouza974&&layout=compact&hide=shell&theme=highcontrast">      
-  </div>
+  
+  <div align="center">
+  <a href="https://github.com/rodrigosouza974">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigosouza974&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosouza974&layout=compact&langs_count=7&theme=dark"/>
+</div>
