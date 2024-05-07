@@ -5,6 +5,11 @@ Graduado em Sistemas de Informação pela Universidade São José, trago uma só
 
 Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, JavaScript, React, Node.js, além de C#
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-souza-bb0151219/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521974234925)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rodrigosouza974)
+
+
 ## ⛳️ Projetos em Desenvolvimento
 
 - <a href='https://github.com/rodrigosouza974/Projeto-tcc' target='_blank'>Site: Help Universitário</a>
