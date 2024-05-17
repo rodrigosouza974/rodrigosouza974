@@ -16,6 +16,8 @@ Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, 
   <br/> 
 - <a href='https://github.com/rodrigosouza974/Jogo-da-velha-unity' target='_blank'>Jogo da Velha</a>
   <br/>
+- <a href='https://github.com/rodrigosouza974/Sistema-Bancario-com-Python' target='_blank'>Sistema Bancário com Python</a>
+  <br/>
 
 ### 🛠 &nbsp;Tech Stack
 
