@@ -12,7 +12,7 @@ Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, 
 
 ## ⛳️ Projetos em Desenvolvimento
 
-- <a href='https://github.com/rodrigosouza974/Projeto-tcc' target='_blank'>Site: Help Universitário</a>
+- <a href='https://github.com/rodrigosouza974/Site_Vendas_JavaScript' target='_blank'>Site de Vendas em JavaScript</a>
   <br/> 
 - <a href='https://github.com/rodrigosouza974/Jogo-da-velha-unity' target='_blank'>Jogo da Velha</a>
   <br/>
