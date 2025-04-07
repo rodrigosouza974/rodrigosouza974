@@ -18,6 +18,10 @@ Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, 
   <br/>
 - <a href='https://github.com/rodrigosouza974/Sistema-Bancario-com-Python' target='_blank'>Sistema Bancário com Python</a>
   <br/>
+- <a href='https://github.com/rodrigosouza974/RushDrive' target='_blank'>Jogo RushDrive</a>
+  <br/>
+- <a href='https://github.com/rodrigosouza974/Industrial-Piece-Counter' target='_blank'>Industrial-Piece-Counte</a>
+  <br/>
 
 ### 🛠 &nbsp;Tech Stack
 
