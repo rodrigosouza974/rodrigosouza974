@@ -21,7 +21,7 @@ Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, 
 - <a href='https://github.com/rodrigosouza974/RushDrive' target='_blank'>Jogo RushDrive</a>
   <br/>
 
-## ⛳️ Projetos em Concluídos
+## ⛳️ Projetos Concluídos
 - <a href='https://github.com/rodrigosouza974/Industrial-Piece-Counter' target='_blank'>Industrial-Piece-Counte</a>
   <br/>
 - <a href='https://github.com/rodrigosouza974/gitfindprojeto' target='_blank'>Projeto: Ache seu Projeto no Git</a>
