@@ -22,7 +22,7 @@ Durante meu curso universitário, adquiri habilidades abrangentes em Front-End, 
   <br/>
 
 ## ⛳️ Projetos Concluídos
-- <a href='https://github.com/rodrigosouza974/Industrial-Piece-Counter' target='_blank'>Industrial-Piece-Counte</a>
+- <a href='https://github.com/rodrigosouza974/Industrial-Piece-Counter' target='_blank'>Industrial-Piece-Counter</a>
   <br/>
 - <a href='https://github.com/rodrigosouza974/gitfindprojeto' target='_blank'>Projeto: Ache seu Projeto no Git</a>
   <br/>
